@@ -21,5 +21,11 @@ namespace House_Of_Cards
             Cards.Remove(card);
             return card;
         }
+
+        public void ExploseCard() 
+        {
+            Random rnd = new Random();
+            Cards[rnd.Next(0, Cards.Count)].CanRead = true;
+        }
     }
 }

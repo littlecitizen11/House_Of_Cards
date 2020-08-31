@@ -1,4 +1,6 @@
-﻿using System;
+﻿using House_Of_Cards.IO.Input;
+using House_Of_Cards.IO.Output;
+using System;
 
 namespace House_Of_Cards
 {
@@ -6,7 +8,10 @@ namespace House_Of_Cards
     {
         static void Main(string[] args)
         {
-            PlayerTable pl = new PlayerTable(2);
+            PlayerTable pl = new PlayerTable(4,new ConoleInput(), new ConsoleOutput());
+
+            //pl.PlayGame();
+            pl.PlayHouseGame();
             foreach (var item in pl.Players)
             {
                 Console.WriteLine(item.Name+" : ");
