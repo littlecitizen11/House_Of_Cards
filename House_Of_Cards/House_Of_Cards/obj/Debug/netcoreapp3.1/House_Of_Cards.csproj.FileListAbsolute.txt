@@ -1,0 +1,13 @@
+C:\Code\House_Of_Cards\House_Of_Cards\House_Of_Cards\bin\Debug\netcoreapp3.1\House_Of_Cards.exe
+C:\Code\House_Of_Cards\House_Of_Cards\House_Of_Cards\bin\Debug\netcoreapp3.1\House_Of_Cards.deps.json
+C:\Code\House_Of_Cards\House_Of_Cards\House_Of_Cards\bin\Debug\netcoreapp3.1\House_Of_Cards.runtimeconfig.json
+C:\Code\House_Of_Cards\House_Of_Cards\House_Of_Cards\bin\Debug\netcoreapp3.1\House_Of_Cards.runtimeconfig.dev.json
+C:\Code\House_Of_Cards\House_Of_Cards\House_Of_Cards\bin\Debug\netcoreapp3.1\House_Of_Cards.dll
+C:\Code\House_Of_Cards\House_Of_Cards\House_Of_Cards\bin\Debug\netcoreapp3.1\House_Of_Cards.pdb
+C:\Code\House_Of_Cards\House_Of_Cards\House_Of_Cards\obj\Debug\netcoreapp3.1\House_Of_Cards.csprojAssemblyReference.cache
+C:\Code\House_Of_Cards\House_Of_Cards\House_Of_Cards\obj\Debug\netcoreapp3.1\House_Of_Cards.AssemblyInfoInputs.cache
+C:\Code\House_Of_Cards\House_Of_Cards\House_Of_Cards\obj\Debug\netcoreapp3.1\House_Of_Cards.AssemblyInfo.cs
+C:\Code\House_Of_Cards\House_Of_Cards\House_Of_Cards\obj\Debug\netcoreapp3.1\House_Of_Cards.csproj.CoreCompileInputs.cache
+C:\Code\House_Of_Cards\House_Of_Cards\House_Of_Cards\obj\Debug\netcoreapp3.1\House_Of_Cards.dll
+C:\Code\House_Of_Cards\House_Of_Cards\House_Of_Cards\obj\Debug\netcoreapp3.1\House_Of_Cards.pdb
+C:\Code\House_Of_Cards\House_Of_Cards\House_Of_Cards\obj\Debug\netcoreapp3.1\House_Of_Cards.genruntimeconfig.cache
